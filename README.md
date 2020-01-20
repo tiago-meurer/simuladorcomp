@@ -1,6 +1,6 @@
-# simuladorcomparativo
+# Simulador Comparativo made for Vek (http://www.vek.com.br/)
 
-A new Flutter project.
+A experimental mobile project made for a regional enterprise. In this application sellers can calculate tax discounts for new clients. 
 
 ## Getting Started
 
